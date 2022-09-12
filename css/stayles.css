@@ -1,0 +1,32 @@
+body {
+  background-color: #ecc5fb;
+  margin: 0;
+  width: 100%;
+}
+table {
+  background-color: #ffffff;
+  width: 382px;
+  height: 62.5px;
+  margin: auto;
+}
+.nomer2 {
+  color: #ff9846;
+  margin: 0;
+  text-align: center;
+}
+.nomer1 {
+  margin: 0;
+  text-align: center;
+}
+
+.work {
+  text-align: center;
+  margin: 0;
+  color: #a4acad;
+}
+.GLAV-DIV {
+  height: 1780px;
+  width: 382px;
+  background-color: #f2f2f2;
+  margin: auto;
+}
